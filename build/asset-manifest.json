@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/postal-pin-code-app/static/css/main.13b56083.css",
+    "main.js": "/postal-pin-code-app/static/js/main.3f1fcd81.js",
+    "index.html": "/postal-pin-code-app/index.html",
+    "main.13b56083.css.map": "/postal-pin-code-app/static/css/main.13b56083.css.map",
+    "main.3f1fcd81.js.map": "/postal-pin-code-app/static/js/main.3f1fcd81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13b56083.css",
+    "static/js/main.3f1fcd81.js"
+  ]
+}
